@@ -27,6 +27,7 @@ function greeting(name){
 
 //Create an array called groceries with the values
 //"apples", "milk", "eggs", "bread"
+var groceries=["milk","eggs","bread"]
 
 //Code Here
 
